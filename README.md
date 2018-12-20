@@ -1,11 +1,18 @@
-### Getting started
+# What is this
 
-`npm install`
+Electron tasky. An electron app that can track time spend on a tasks
 
-Start dev server:
+# Additional notes
 
-`npm start`
+1. This project is from udemy tutorial [here](https://www.udemy.com/electron-react-tutorial)
+2. I make a new repo from [this](https://github.com/StephenGrider/ElectronCode/tree/master/boilerplates/tasky)
 
-In a new terminal window:
+# Getting started
 
-`npm run electron`
+After npm install, you need to run both react and electron
+
+```
+npm install
+npm start
+npm run electron
+```
